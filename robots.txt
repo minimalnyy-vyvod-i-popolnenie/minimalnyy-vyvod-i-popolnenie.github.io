@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: minimalnyy-vyvod-i-popolnenie.github.io
+Sitemap: https://minimalnyy-vyvod-i-popolnenie.github.io/sitemap.xml
